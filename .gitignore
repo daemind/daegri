@@ -1,0 +1,7 @@
+# Ignore the following files and folders:
+node_modules/
+.env
+*.log
+__pycache__/
+db.sqlite3
+.vscode/
